@@ -1,0 +1,1 @@
+/home/erik/code/configs/i3
